@@ -8,4 +8,5 @@ describe('Favorite Food Filter', function () {
 	}));
 
 	
-});
+}
+);
